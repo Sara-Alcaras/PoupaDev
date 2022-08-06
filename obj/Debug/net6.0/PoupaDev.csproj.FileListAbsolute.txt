@@ -1,0 +1,15 @@
+C:\Users\Sara\Desktop\Curso Edusyn\PoupaDev\bin\Debug\net6.0\PoupaDev.exe
+C:\Users\Sara\Desktop\Curso Edusyn\PoupaDev\bin\Debug\net6.0\PoupaDev.deps.json
+C:\Users\Sara\Desktop\Curso Edusyn\PoupaDev\bin\Debug\net6.0\PoupaDev.runtimeconfig.json
+C:\Users\Sara\Desktop\Curso Edusyn\PoupaDev\bin\Debug\net6.0\PoupaDev.dll
+C:\Users\Sara\Desktop\Curso Edusyn\PoupaDev\bin\Debug\net6.0\PoupaDev.pdb
+C:\Users\Sara\Desktop\Curso Edusyn\PoupaDev\obj\Debug\net6.0\PoupaDev.csproj.AssemblyReference.cache
+C:\Users\Sara\Desktop\Curso Edusyn\PoupaDev\obj\Debug\net6.0\PoupaDev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sara\Desktop\Curso Edusyn\PoupaDev\obj\Debug\net6.0\PoupaDev.AssemblyInfoInputs.cache
+C:\Users\Sara\Desktop\Curso Edusyn\PoupaDev\obj\Debug\net6.0\PoupaDev.AssemblyInfo.cs
+C:\Users\Sara\Desktop\Curso Edusyn\PoupaDev\obj\Debug\net6.0\PoupaDev.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Desktop\Curso Edusyn\PoupaDev\obj\Debug\net6.0\PoupaDev.dll
+C:\Users\Sara\Desktop\Curso Edusyn\PoupaDev\obj\Debug\net6.0\refint\PoupaDev.dll
+C:\Users\Sara\Desktop\Curso Edusyn\PoupaDev\obj\Debug\net6.0\PoupaDev.pdb
+C:\Users\Sara\Desktop\Curso Edusyn\PoupaDev\obj\Debug\net6.0\PoupaDev.genruntimeconfig.cache
+C:\Users\Sara\Desktop\Curso Edusyn\PoupaDev\obj\Debug\net6.0\ref\PoupaDev.dll
