@@ -1,0 +1,9 @@
+Abstração
+
+Permite esconder do usuário detalhes de implementação interna
+
+Clientes do método não precisam saber como ele funciona, apenas invocá-lo com os parâmetros
+necessários
+
+Exemplo: Máquina de café (aperta o botão e espera o café vim.. 
+não sabe como é feito o café dentro da máquina)

@@ -1,0 +1,8 @@
+Polimorfismo
+
+Permite que objetos de classes derivadas se comportem de maneira diferente ao da classe
+base
+
+Se expressa através de palavras-chaves virtual e override, sendo a primeira a que define
+quais comportamentos poderão ser alterados na classe derivada, e override a implementação
+do método virtual na classe derivada

@@ -1,0 +1,8 @@
+Herança
+
+Permite a reutilização, extensão e modificação de características e comportamentos de
+outras classes
+
+A classe que é herdada é comumente chamada de classe base
+
+Afetada por modificadores de acesso que estejam aplicados á classe base

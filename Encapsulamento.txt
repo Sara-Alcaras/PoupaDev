@@ -1,0 +1,6 @@
+Encapsulamento
+
+Técnica de esconder detalhes de implementação de uma classe
+
+C# é utilizado modificadores de acesso(public, protected,privite, internal)
+
